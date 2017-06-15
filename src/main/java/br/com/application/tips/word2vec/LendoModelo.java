@@ -22,25 +22,28 @@ import ch.qos.logback.core.read.ListAppender;
 
 public class LendoModelo {
 
-	public static void main(String[] args) throws IOException {
-
-		// LENDO MODELO TREINADO
-		Word2Vec vec = WordVectorSerializer.loadFullModel("pathToSaveModelPreconceitoNOVO5.txt");
+	public ArrayList<Integer> CombinarDocWord2Vec() throws IOException {
 		
+		int resultado = 0;	
+		// LENDO MODELO TREINADO
+		
+		Word2Vec vec = WordVectorSerializer.loadFullModel("pathToSaveModelPreconceitoNOVO5.txt");
+		/*
 		Collection<String> lst = vec.wordsNearest("racismo", 10);
 		System.out.println(lst);
-		
+		*/
 		ArrayList<String> p = Somatorio.ler("ListaP.txt");
 		ArrayList<String> sp = Somatorio.ler("ListaSP.txt");
 
-		ArrayList<String> sentencas = ler("src/main/resources/PreconceitoStopwords.txt");
-		//System.out.println(sentencas.size());
 
-		ArrayList<String> resultados = new ArrayList<>();
+		ArrayList<String> sentencas = ler("PreconceitoStopwords.txt");
+		System.out.println(sentencas.size());
+
+		ArrayList<Integer> resultados = new ArrayList<>();
 
 		try {
-			for (int j = 0; j < 100; j++) {
-				double somatorio = 0;
+			double[] somatorio = new double[10];
+			for (int j = 0; j < 10; j++) {				
 				String[] stVec = sentencas.get(j).split(" ");
 				StringBuilder texto = new StringBuilder();
 
@@ -49,7 +52,7 @@ public class LendoModelo {
 				// System.out.println("----------------------------------------------");
 
 				texto.append("---------------------------------------------- \n");
-				texto.append("sentenca: " + sentencas.get(j) + "\n");
+				texto.append("sentenca: " + j+" " +sentencas.get(j) + "\n");
 				texto.append("---------------------------------------------- \n");
 
 				System.out.println(sentencas.get(j));
@@ -62,6 +65,7 @@ public class LendoModelo {
 							double cosSim = 0;
 							for (String word : p) {
 
+								System.out.println(stVec[i] + "-" + word);
 								cosSim = vec.similarity(stVec[i], word);
 
 								// System.out.println("Palavra + sentimento
@@ -74,7 +78,7 @@ public class LendoModelo {
 								texto.append("Palavra + sentimento negativo \n");
 								texto.append(stVec[i] + " + " + word + ": " + cosSim + "\n");
 								texto.append("----------------------------------------- \n");
-								somatorio = cosSim + somatorio;				
+								somatorio[j] = cosSim + somatorio[j];				
 								
 								
 							}
@@ -93,7 +97,7 @@ public class LendoModelo {
 								texto.append("Palavra + sentimento positivo \n");
 								texto.append(stVec[i] + " + " + word + ": " + cosSim + "\n");
 								texto.append("----------------------------------------- \n");
-								somatorio = cosSim + somatorio;
+								somatorio[j] = cosSim + somatorio[j];
 							}
 						}
 
@@ -105,10 +109,20 @@ public class LendoModelo {
 					
 				}
 			}
+			for (int cont = 0; cont < somatorio.length; cont++) {
+				if (somatorio[cont] <= 0) {
+					resultados.add(0);
+				}
+				else {
+					resultados.add(1);
+				}
+			}
+			
 			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		return resultados;
 
 	}
 

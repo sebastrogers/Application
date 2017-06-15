@@ -17,12 +17,13 @@ import org.apache.commons.lang.math.NumberUtils;
 import org.deeplearning4j.models.embeddings.loader.WordVectorSerializer;
 import org.deeplearning4j.models.word2vec.Word2Vec;
 
+import br.com.application.tips.classifiers.Sentences;
 import br.com.application.tips.classifiers.Somatorio;
 import ch.qos.logback.core.read.ListAppender;
 
 public class LendoModelo {
 
-	public ArrayList<Integer> CombinarDocWord2Vec() throws IOException {
+	public ArrayList<Sentences> CombinarDocWord2Vec() throws IOException {
 		
 		int resultado = 0;	
 		// LENDO MODELO TREINADO
@@ -39,11 +40,12 @@ public class LendoModelo {
 		ArrayList<String> sentencas = ler("PreconceitoStopwords.txt");
 		System.out.println(sentencas.size());
 
-		ArrayList<Integer> resultados = new ArrayList<>();
-
+		ArrayList<Sentences> resultados = new ArrayList<>();
+		
+		
 		try {
-			double[] somatorio = new double[10];
-			for (int j = 0; j < 10; j++) {				
+			double[] somatorio = new double[1];
+			for (int j = 0; j < 1; j++) {				
 				String[] stVec = sentencas.get(j).split(" ");
 				StringBuilder texto = new StringBuilder();
 
@@ -56,6 +58,10 @@ public class LendoModelo {
 				texto.append("---------------------------------------------- \n");
 
 				System.out.println(sentencas.get(j));
+				Sentences sentences = new Sentences();
+				sentences.setSentenca(sentencas.get(j));
+				double similaridade = 0;
+				
 
 				for (int i = 0; i < stVec.length; i++) {
 					
@@ -78,7 +84,8 @@ public class LendoModelo {
 								texto.append("Palavra + sentimento negativo \n");
 								texto.append(stVec[i] + " + " + word + ": " + cosSim + "\n");
 								texto.append("----------------------------------------- \n");
-								somatorio[j] = cosSim + somatorio[j];				
+								somatorio[j] = cosSim + somatorio[j];
+								similaridade += cosSim;
 								
 								
 							}
@@ -98,7 +105,10 @@ public class LendoModelo {
 								texto.append(stVec[i] + " + " + word + ": " + cosSim + "\n");
 								texto.append("----------------------------------------- \n");
 								somatorio[j] = cosSim + somatorio[j];
+								similaridade += cosSim;
 							}
+							sentences.setSomatorio(similaridade);
+							resultados.add(sentences);
 						}
 
 						texto.append("\n \n");
@@ -108,22 +118,17 @@ public class LendoModelo {
 					}
 					
 				}
+				
+				
 			}
-			for (int cont = 0; cont < somatorio.length; cont++) {
-				if (somatorio[cont] <= 0) {
-					resultados.add(0);
-				}
-				else {
-					resultados.add(1);
-				}
-			}
-			
+					
 			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+		
 		return resultados;
-
+		
 	}
 
 	public static boolean isNumeric(String str) {

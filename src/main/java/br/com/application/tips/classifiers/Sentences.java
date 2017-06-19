@@ -1,20 +1,36 @@
 package br.com.application.tips.classifiers;
 
 public class Sentences {
+	
+	@Override
+	public String toString() {
+		return "Sentences [sentenca=" + sentenca + ", dynamic=" + dynamic + ", knn=" + knn + ", naivebayes="
+				+ naivebayes + ", somatorio=" + somatorio + ", combinaDocWord=" + combinaDocWord + "]";
+	}
 	String sentenca;
 	double dynamic;
 	double knn;
 	double naivebayes;
 	double somatorio;
+	double combinaDocWord;
 	
 	public Sentences() {
 		sentenca = " ";
-		dynamic = 0;
-		knn = 0;
-		naivebayes = 0;
-		somatorio = 0;
+		dynamic = -1;
+		knn = -1;
+		naivebayes = -1;
+		somatorio = -1;
+		combinaDocWord = -1;
 	}
-	
+		
+	public double getCombinaDocWord() {
+		return combinaDocWord;
+	}
+
+	public void setCombinaDocWord(double combinaDocWord) {
+		this.combinaDocWord = combinaDocWord;
+	}
+
 	public String getSentenca() {
 		return sentenca;
 	}

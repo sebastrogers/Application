@@ -37,15 +37,15 @@ public class LendoModelo {
 		ArrayList<String> sp = Somatorio.ler("ListaSP.txt");
 
 
-		ArrayList<String> sentencas = ler("PreconceitoStopwords.txt");
+		ArrayList<String> sentencas = ler("baseArtigoNOVO.txt");
 		System.out.println(sentencas.size());
 
 		ArrayList<Sentences> resultados = new ArrayList<>();
 		
 		
 		try {
-			double[] somatorio = new double[1];
-			for (int j = 0; j < 1; j++) {				
+			double[] somatorio = new double[2];
+			for (int j = 0; j < 2; j++) {				
 				String[] stVec = sentencas.get(j).split(" ");
 				StringBuilder texto = new StringBuilder();
 

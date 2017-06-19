@@ -42,8 +42,8 @@ public class KNNClassify{
     = new TokenFeatureExtractor(NORM_TOKENIZER_FACTORY);
 	
     static TokenizerFactory normTokenizerFactory() {
-    	TokenizerFactory factory = SPACE_TOKENIZER_FACTORY;  //espaço em branco
-    	factory = new LowerCaseTokenizerFactory(factory); //minúsculo
+    	TokenizerFactory factory = SPACE_TOKENIZER_FACTORY;  //espaï¿½o em branco
+    	factory = new LowerCaseTokenizerFactory(factory); //minï¿½sculo
     	return factory;
     }
   
@@ -76,7 +76,7 @@ public class KNNClassify{
 		classifier = new DynamicLMClassifier<>(categoriesVector, tokenArray);
 		 */
 		for(int i=0; i<categories.size(); ++i) { // para cada categoria
-			File classDir = new File(trainDirectory,categories.get(i)); // pega o diretório dela
+			File classDir = new File(trainDirectory,categories.get(i)); // pega o diretï¿½rio dela
 			if (!classDir.isDirectory()) {
 				String msg = "Could not find training directory="
 					+ classDir;
@@ -92,7 +92,7 @@ public class KNNClassify{
 				Classification classification
 				= new Classification(categories.get(i));
 				Classified<CharSequence> classified
-				= new Classified<CharSequence>(text,classification); // texto classificação
+				= new Classified<CharSequence>(text,classification); // texto classificaï¿½ï¿½o
 				classifier.handle(classified); // adiciona no classificador
 			}
 		}
@@ -122,5 +122,11 @@ public class KNNClassify{
 		}
 		
 		return bestCategory;
+	}
+	
+	public double classificar(String s){
+		
+		
+		return 0; 
 	}
 }

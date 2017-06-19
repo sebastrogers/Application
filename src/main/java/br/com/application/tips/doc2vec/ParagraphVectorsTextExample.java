@@ -24,7 +24,7 @@ public class ParagraphVectorsTextExample {
 	private static final Logger log = LoggerFactory.getLogger(ParagraphVectorsTextExample.class);
 
 	public static void main(String[] args) throws Exception {
-		ClassPathResource resource = new ClassPathResource("\\PreconceitoStopwords.txt");
+		ClassPathResource resource = new ClassPathResource("\\baseArtigoNOVO.txt");
 		File file = resource.getFile();
 		SentenceIterator iter = new BasicLineIterator(file);
 
@@ -74,10 +74,12 @@ public class ParagraphVectorsTextExample {
 		
 		// 0 - 5786 - Sent.
 		//5787 - 5853 - Sentimento
-		double similarity1 = vec.similarity("DOC_0", "DOC_5832");
-		log.info("0/5832 ('senten�a 1 .'/'preocupado .') similarity: " + similarity1);
+		//double similarity1 = vec.similarity("DOC_0", "DOC_5832");
+		//log.info("0/5832 ('sentença 1 .'/'preocupado .') similarity: " + similarity1);
 		// 0 - estados unidos america casos racismo escolas proliferam dando origem testemunhos criancas
 		
+		double similarity1 = vec.similarity("DOC_28", "DOC_100");
+		log.info("0/101 ('sentença 29 .'/'preocupado .') similarity: " + similarity1);
 		
 				
 		//double similarity3 = vec.similarity("DOC_3", "DOC_4");

@@ -29,7 +29,7 @@ public class CrossValidateNews {
 
 	private static File TESTING_DIR = new File("test");
 	
-	private static String[] CATEGORIES = { "positive", "negative"};
+	private static String[] CATEGORIES = {"positive", "negative"};
 
     private static int NGRAM_SIZE = 6;
 
@@ -91,9 +91,10 @@ public class CrossValidateNews {
                               evaluator.confusionMatrix().confidence95(),
             evaluator.confusionMatrix());
             */
-            System.out.println(evaluator.confusionMatrix().macroAvgFMeasure());
-            System.out.println(evaluator.confusionMatrix().macroAvgPrecision());
-            System.out.println(evaluator.confusionMatrix().macroAvgRecall());
+            System.out.println("---------------------------------");
+            System.out.println("F-Measure: " +evaluator.confusionMatrix().macroAvgFMeasure());
+            System.out.println("Precision: " +evaluator.confusionMatrix().macroAvgPrecision());
+            System.out.println("Recall:    " +evaluator.confusionMatrix().macroAvgRecall());
         }
         
 

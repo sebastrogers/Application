@@ -29,23 +29,20 @@ public class LendoModelo {
 		// LENDO MODELO TREINADO
 		
 		Word2Vec vec = WordVectorSerializer.loadFullModel("pathToSaveModelPreconceitoNOVO5.txt");
-		/*
-		Collection<String> lst = vec.wordsNearest("racismo", 10);
-		System.out.println(lst);
-		*/
+		
 		ArrayList<String> p = Somatorio.ler("ListaP.txt");
 		ArrayList<String> sp = Somatorio.ler("ListaSP.txt");
 
 
 		ArrayList<String> sentencas = ler("baseArtigoNOVO.txt");
 		System.out.println(sentencas.size());
-
+		vec.hasWord("estados");
 		ArrayList<Sentences> resultados = new ArrayList<>();
 		
 		
 		try {
-			double[] somatorio = new double[2];
-			for (int j = 0; j < 2; j++) {				
+			double[] somatorio = new double[100];
+			for (int j = 0; j < 100; j++) {				
 				String[] stVec = sentencas.get(j).split(" ");
 				StringBuilder texto = new StringBuilder();
 

@@ -3,6 +3,8 @@ package br.com.application.tips.main;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import org.deeplearning4j.models.word2vec.Word2Vec;
+
 import br.com.application.tips.classifiers.Classify;
 import br.com.application.tips.classifiers.Sentences;
 import br.com.application.tips.classifiers.Somatorio;
@@ -12,6 +14,7 @@ public class Application {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		
+		/*
 		Classify c = new Classify();
 		ArrayList<Sentences> sentencas = new ArrayList<>();
 		ArrayList<String> list = Somatorio.ler("baseArtigoNOVO.txt");
@@ -37,11 +40,11 @@ public class Application {
 		System.out.println(sentencas);
 		
 		
+		*/
 		
 		
 		
 		
-		/*
 		LendoModelo object = new LendoModelo();
 		
 		ArrayList<Sentences> combinacaoDocWord2Vec = object.CombinarDocWord2Vec();
@@ -49,7 +52,7 @@ public class Application {
 		for (Sentences temp : combinacaoDocWord2Vec) {
 			System.out.println("... " + temp.getSentenca()+ " " +temp.getSomatorio());
 		}
-	*/
+	
 	}
 	
 }

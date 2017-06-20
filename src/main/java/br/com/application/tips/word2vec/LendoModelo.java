@@ -140,7 +140,8 @@ public class LendoModelo {
 	}
 
 	static void salvaArquivo(String string, String s) throws IOException {
-		FileWriter arqW = new FileWriter("src/main/resources/resultado/" + s + ".txt");
+		//FileWriter arqW = new FileWriter("src/main/resources/resultado/" + s + ".txt");
+		FileWriter arqW = new FileWriter("./src/main/resources/resultado/" + s + ".txt");
 		PrintWriter gravarArq = new PrintWriter(arqW);
 
 		gravarArq.println(string);

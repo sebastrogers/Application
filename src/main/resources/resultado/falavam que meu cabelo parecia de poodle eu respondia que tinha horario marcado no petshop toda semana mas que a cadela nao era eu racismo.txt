@@ -1,0 +1,5079 @@
+---------------------------------------------- 
+sentenca: 23 falavam que meu cabelo parecia de poodle eu respondia que tinha horario marcado no petshop toda semana mas que a cadela nao era eu racismo
+---------------------------------------------- 
+Palavra + sentimento negativo 
+falavam + decepcionado: 0.06297602504491806
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + derrotado: -0.19531148672103882
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desapontado: 0.006546723656356335
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + frustrado: 0.19689401984214783
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + abalado: -0.04629431664943695
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + abatido: 0.11479741334915161
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + aflito: -0.05027486011385918
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + agoniado: 0.07170282304286957
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + agonizante: 0.03913329914212227
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + angustiado: -0.03364742547273636
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + angustiante: 0.12030362337827682
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + contrariado: -0.08812754601240158
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + estressado: 0.009812981821596622
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + inquieto: -0.1503666192293167
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + perturbado: -0.14363417029380798
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + preocupado: 0.1772952377796173
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + triste: -0.0032503220718353987
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + acanhado: -0.030759600922465324
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + constrangido: 0.048224031925201416
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + culpado: 0.054527875036001205
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desonrado: -0.0362158864736557
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + encabulado: 0.07401897013187408
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + envergonhado: 0.14443199336528778
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + humilhado: 0.15942417085170746
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + azarado: 0.06295691430568695
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + coitado: -0.058725081384181976
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + deploravel: -0.08360686153173447
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desafortunado: 0.026020625606179237
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desconsolado: 0.11258537322282791
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desgracado: 0.05058429390192032
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + desprezivel: 0.01298757828772068
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + infeliz: -0.03548824414610863
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + lamentavel: 0.1544962078332901
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + lastimoso: -0.08371903747320175
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + miseravel: -0.008109177462756634
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + patetico: 0.12736520171165466
+----------------------------------------- 
+Palavra + sentimento negativo 
+falavam + pobre: -0.09828801453113556
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + animado: 0.05333824083209038
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + complacente: 0.06796842813491821
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + contentamento: -0.052090391516685486
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + contente: -0.021390840411186218
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + presuncoso: 0.06560462713241577
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + radiante: -0.10675565153360367
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + satisfeito: -0.23957157135009766
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + adoravel: 0.07133316993713379
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + afeicoado: -0.014770845882594585
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + afetuoso: 0.035759590566158295
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + amado: 0.0015708361752331257
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + amavel: -0.010929825715720654
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + amoroso: 0.01533738523721695
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + apaixonado: -0.031475916504859924
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + atraido: -0.07068232446908951
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + caloroso: 0.06528595089912415
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + carinhoso: -0.0056268502958118916
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + cativado: 0.19856339693069458
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + cuidadoso: 0.060980379581451416
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + dedicado: 0.13671860098838806
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + delicado: -0.044785864651203156
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + devotadissimo: -0.04194806143641472
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + devotado: -0.029026664793491364
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + enamorado: 0.04156309738755226
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + encantado: -0.13477429747581482
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + idolatrico: -0.10079733282327652
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + paternal: 0.14275912940502167
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + romantico: 0.07850918173789978
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + terno: -0.20821890234947205
+----------------------------------------- 
+Palavra + sentimento positivo 
+falavam + zeloso: -0.12467601895332336
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+que + decepcionado: 0.2223750799894333
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + derrotado: -0.04895290359854698
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desapontado: 0.04615582525730133
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + frustrado: 0.07520925998687744
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abalado: 0.09530556201934814
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abatido: 0.1577523648738861
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + aflito: -0.04398579150438309
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agoniado: 0.04851780831813812
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agonizante: 0.010055646300315857
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiado: -0.019213508814573288
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiante: 0.14487490057945251
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + contrariado: -0.09108729660511017
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + estressado: -0.03808526694774628
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + inquieto: -0.009465925395488739
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + perturbado: 0.03826209902763367
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + preocupado: 0.5113780498504639
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + triste: -0.03891594335436821
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + acanhado: -0.08538653701543808
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + constrangido: 0.010085366666316986
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + culpado: -0.09158015251159668
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desonrado: 0.0857158973813057
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + encabulado: -0.023786017671227455
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + envergonhado: -0.07996103912591934
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + humilhado: 0.3582230806350708
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + azarado: 0.09624851495027542
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + coitado: -0.04268991947174072
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + deploravel: -0.06725858151912689
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desafortunado: 0.05157579109072685
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desconsolado: 0.09528524428606033
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desgracado: -0.08261093497276306
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desprezivel: -0.031510449945926666
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + infeliz: -0.17235542833805084
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lamentavel: 0.2728293538093567
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lastimoso: -0.02545418031513691
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + miseravel: -0.049394089728593826
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + patetico: 0.07109525054693222
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + pobre: -0.17442665994167328
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + animado: 0.13839343190193176
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + complacente: 0.24242320656776428
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contentamento: -0.15848524868488312
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contente: 0.011964294128119946
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + presuncoso: 0.03759083151817322
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + radiante: -0.21912731230258942
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + satisfeito: -0.17636342346668243
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + adoravel: 0.08871502429246902
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afeicoado: 0.04149181395769119
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afetuoso: -0.05638739466667175
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amado: 0.044396158307790756
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amavel: 0.05261160805821419
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amoroso: 0.1026717871427536
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + apaixonado: 0.07930541038513184
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + atraido: 0.07916175574064255
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + caloroso: 0.12481271475553513
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + carinhoso: -0.029042111709713936
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cativado: 0.10015435516834259
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cuidadoso: 0.08279338479042053
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + dedicado: 0.07404839992523193
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + delicado: 0.12846559286117554
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotadissimo: 0.09836149960756302
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotado: -0.07894359529018402
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + enamorado: 0.13244563341140747
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + encantado: 0.002472708933055401
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + idolatrico: -0.1369098275899887
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + paternal: 0.07957232743501663
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + romantico: 0.15813326835632324
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + terno: -0.2952296733856201
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + zeloso: 0.15902665257453918
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+meu + decepcionado: 0.14326250553131104
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + derrotado: -0.04861333593726158
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desapontado: 0.07280918210744858
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + frustrado: 0.14154855906963348
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + abalado: 0.01125320978462696
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + abatido: 0.0182820875197649
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + aflito: -0.09268515557050705
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + agoniado: 0.07264666259288788
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + agonizante: 0.06014390289783478
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + angustiado: 0.042861297726631165
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + angustiante: 0.22806668281555176
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + contrariado: -0.10046505928039551
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + estressado: -0.11708959192037582
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + inquieto: -0.10639743506908417
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + perturbado: 0.0483410507440567
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + preocupado: 0.4151318073272705
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + triste: 0.03737002611160278
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + acanhado: -0.12460896372795105
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + constrangido: -0.05900387838482857
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + culpado: -0.011940882541239262
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desonrado: 0.0736294835805893
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + encabulado: 0.02391371876001358
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + envergonhado: 0.14940008521080017
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + humilhado: 0.24710609018802643
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + azarado: 0.024494288489222527
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + coitado: -0.03400309011340141
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + deploravel: 0.037789929658174515
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desafortunado: 0.037924543023109436
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desconsolado: 0.1268482506275177
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desgracado: -0.08860041201114655
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + desprezivel: -0.0028670968022197485
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + infeliz: -0.21242845058441162
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + lamentavel: 0.34217318892478943
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + lastimoso: 0.08239816874265671
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + miseravel: -0.029418405145406723
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + patetico: 0.0735115185379982
+----------------------------------------- 
+Palavra + sentimento negativo 
+meu + pobre: -0.023680340498685837
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + animado: 0.16372808814048767
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + complacente: 0.1546938270330429
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + contentamento: -0.1366242617368698
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + contente: -0.015626151114702225
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + presuncoso: -0.0012697855709120631
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + radiante: -0.13131576776504517
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + satisfeito: -0.1606934815645218
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + adoravel: 0.03702525049448013
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + afeicoado: -0.003497506259009242
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + afetuoso: -1.6251012857537717E-4
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + amado: 0.04503612220287323
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + amavel: -0.1476062685251236
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + amoroso: 0.18250451982021332
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + apaixonado: 0.10327509045600891
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + atraido: -0.025613734498620033
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + caloroso: 0.1600097268819809
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + carinhoso: 0.05107415094971657
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + cativado: 0.17352576553821564
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + cuidadoso: 0.06877444684505463
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + dedicado: 0.06822578608989716
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + delicado: 0.06915270537137985
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + devotadissimo: 0.09764447063207626
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + devotado: -0.08604486286640167
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + enamorado: 0.06832167506217957
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + encantado: 0.028170732781291008
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + idolatrico: -0.12981514632701874
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + paternal: 0.02231358177959919
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + romantico: 0.06426863372325897
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + terno: -0.2351655215024948
+----------------------------------------- 
+Palavra + sentimento positivo 
+meu + zeloso: 0.08702076226472855
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+cabelo + decepcionado: -0.06012168154120445
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + derrotado: -0.17185333371162415
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desapontado: 0.02685774303972721
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + frustrado: 0.026487654075026512
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + abalado: 0.20756539702415466
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + abatido: -0.01768897846341133
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + aflito: 0.05994760990142822
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + agoniado: -0.07168456166982651
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + agonizante: -0.030657391995191574
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + angustiado: -0.12671710550785065
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + angustiante: 0.14143572747707367
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + contrariado: 0.010179759003221989
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + estressado: 0.017227908596396446
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + inquieto: -0.10977013409137726
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + perturbado: -0.03196626156568527
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + preocupado: 0.04582265764474869
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + triste: 0.3112885653972626
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + acanhado: 0.04133864864706993
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + constrangido: 0.15408599376678467
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + culpado: 0.03179493173956871
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desonrado: 0.05684396252036095
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + encabulado: -0.0685901790857315
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + envergonhado: 0.22279566526412964
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + humilhado: 0.23040197789669037
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + azarado: -0.03947709873318672
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + coitado: 0.07434746623039246
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + deploravel: -0.05076489970088005
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desafortunado: -0.019981563091278076
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desconsolado: 0.13009020686149597
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desgracado: -0.013810690492391586
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + desprezivel: 0.07450542598962784
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + infeliz: 0.07100503146648407
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + lamentavel: 0.11295616626739502
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + lastimoso: -0.14346528053283691
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + miseravel: 0.0716627910733223
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + patetico: 1.5586483641527593E-4
+----------------------------------------- 
+Palavra + sentimento negativo 
+cabelo + pobre: 0.08140353858470917
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + animado: -0.0031127906404435635
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + complacente: -0.1742188036441803
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + contentamento: 0.1147393137216568
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + contente: -0.2432049959897995
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + presuncoso: 0.14075694978237152
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + radiante: 0.06969542056322098
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + satisfeito: -0.11360304057598114
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + adoravel: 0.036783311516046524
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + afeicoado: 0.05980226770043373
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + afetuoso: 0.09299083799123764
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + amado: -0.02410006895661354
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + amavel: -0.11682453751564026
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + amoroso: 0.20531065762043
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + apaixonado: -0.0031344122253358364
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + atraido: 0.058590177446603775
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + caloroso: -0.03309354931116104
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + carinhoso: 0.020677153021097183
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + cativado: -0.0416758731007576
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + cuidadoso: -0.034612372517585754
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + dedicado: 0.10597167909145355
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + delicado: 0.04069843515753746
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + devotadissimo: -0.05885474756360054
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + devotado: -0.0023715952411293983
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + enamorado: 0.11171159148216248
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + encantado: -0.05139584094285965
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + idolatrico: -0.04092017933726311
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + paternal: -0.10729506611824036
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + romantico: -0.06951578706502914
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + terno: 0.09542462229728699
+----------------------------------------- 
+Palavra + sentimento positivo 
+cabelo + zeloso: -0.18875427544116974
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+parecia + decepcionado: -0.003789420472458005
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + derrotado: 0.0452234111726284
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desapontado: 0.16543368995189667
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + frustrado: -0.004824390634894371
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + abalado: 0.2646043598651886
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + abatido: -0.16576993465423584
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + aflito: -0.0019694906659424305
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + agoniado: 0.028718994930386543
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + agonizante: -0.0841079130768776
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + angustiado: -0.0533100888133049
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + angustiante: 0.13158807158470154
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + contrariado: 0.12545853853225708
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + estressado: -0.12621499598026276
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + inquieto: -0.08806374669075012
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + perturbado: -0.04771556332707405
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + preocupado: 0.3264531195163727
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + triste: 0.2928050756454468
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + acanhado: -0.017049515619874
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + constrangido: -0.08849567174911499
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + culpado: 0.013289487920701504
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desonrado: -0.018947726115584373
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + encabulado: -0.02718420699238777
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + envergonhado: 0.05872054398059845
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + humilhado: 0.4761664867401123
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + azarado: -0.0484900139272213
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + coitado: 0.19165083765983582
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + deploravel: 0.04707340896129608
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desafortunado: -0.053203992545604706
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desconsolado: -0.007510135415941477
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desgracado: 0.07265433669090271
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + desprezivel: -0.06267651915550232
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + infeliz: -0.02195698767900467
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + lamentavel: 0.21902532875537872
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + lastimoso: -0.07614011317491531
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + miseravel: 0.027548497542738914
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + patetico: 0.12544451653957367
+----------------------------------------- 
+Palavra + sentimento negativo 
+parecia + pobre: 0.23129715025424957
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + animado: 0.17157931625843048
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + complacente: -0.18856365978717804
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + contentamento: 0.11168747395277023
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + contente: 0.05906369909644127
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + presuncoso: 0.06369724124670029
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + radiante: 0.17174579203128815
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + satisfeito: -0.10442744940519333
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + adoravel: 0.062466032803058624
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + afeicoado: -0.0739847794175148
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + afetuoso: 0.07391154021024704
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + amado: 0.03359811380505562
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + amavel: -0.167107492685318
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + amoroso: 0.18229982256889343
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + apaixonado: 0.1132512092590332
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + atraido: -0.08891797065734863
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + caloroso: 0.03986910730600357
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + carinhoso: 0.279751718044281
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + cativado: 0.08325894176959991
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + cuidadoso: 0.008186380378901958
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + dedicado: 0.2744724452495575
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + delicado: -0.08963221311569214
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + devotadissimo: -0.10228818655014038
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + devotado: 0.10111342370510101
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + enamorado: 0.10188914835453033
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + encantado: -0.017413657158613205
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + idolatrico: -0.035789743065834045
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + paternal: -0.17377784848213196
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + romantico: -0.011861229315400124
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + terno: 0.12158003449440002
+----------------------------------------- 
+Palavra + sentimento positivo 
+parecia + zeloso: -0.09142234176397324
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+de + decepcionado: 0.2603592574596405
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + derrotado: -0.003294476540759206
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desapontado: 0.07180620729923248
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + frustrado: 0.16082650423049927
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + abalado: 0.02312467433512211
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + abatido: 0.13488151133060455
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + aflito: -0.07383255660533905
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + agoniado: 0.07194133847951889
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + agonizante: 0.06383242458105087
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + angustiado: 0.02657494693994522
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + angustiante: 0.21641449630260468
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + contrariado: -0.07034612447023392
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + estressado: -0.16483336687088013
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + inquieto: -0.05423249304294586
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + perturbado: 0.03385493904352188
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + preocupado: 0.5198216438293457
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + triste: -0.10088653117418289
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + acanhado: -0.18769244849681854
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + constrangido: -0.04310251772403717
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + culpado: -0.08448103070259094
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desonrado: 0.1110144630074501
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + encabulado: 0.03154328837990761
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + envergonhado: -0.030363142490386963
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + humilhado: 0.2762731909751892
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + azarado: 0.10574643313884735
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + coitado: -0.15193304419517517
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + deploravel: -0.060404129326343536
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desafortunado: 0.04453655332326889
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desconsolado: 0.09902485460042953
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desgracado: -0.11425521969795227
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + desprezivel: -0.03200085833668709
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + infeliz: -0.18868833780288696
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + lamentavel: 0.3869988024234772
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + lastimoso: 0.01269913837313652
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + miseravel: -0.054858483374118805
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + patetico: 0.02902989648282528
+----------------------------------------- 
+Palavra + sentimento negativo 
+de + pobre: -0.17294496297836304
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + animado: 0.1347721368074417
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + complacente: 0.30262336134910583
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + contentamento: -0.19334623217582703
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + contente: 0.02482711337506771
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + presuncoso: 0.02625495195388794
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + radiante: -0.19770005345344543
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + satisfeito: -0.1873897761106491
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + adoravel: 0.10613204538822174
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + afeicoado: 0.00936952419579029
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + afetuoso: -0.05437567085027695
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + amado: 0.024592697620391846
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + amavel: -0.01972321793437004
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + amoroso: 0.09420127421617508
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + apaixonado: 0.1263750195503235
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + atraido: 0.027707289904356003
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + caloroso: 0.13537399470806122
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + carinhoso: -0.0020192849915474653
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + cativado: 0.13305988907814026
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + cuidadoso: 0.07537969201803207
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + dedicado: 0.10482371598482132
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + delicado: 0.06235744431614876
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + devotadissimo: 0.13786494731903076
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + devotado: -0.14206811785697937
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + enamorado: 0.0732790157198906
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + encantado: -0.0325324609875679
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + idolatrico: -0.17471818625926971
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + paternal: 0.13380464911460876
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + romantico: 0.09732899814844131
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + terno: -0.2339087873697281
+----------------------------------------- 
+Palavra + sentimento positivo 
+de + zeloso: 0.11772129684686661
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+poodle + decepcionado: 0.03483348339796066
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + derrotado: -0.22372259199619293
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desapontado: 0.09063339978456497
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + frustrado: 0.08133838325738907
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + abalado: 0.11246530711650848
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + abatido: 0.07156398147344589
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + aflito: -0.04907139763236046
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + agoniado: 0.02599894069135189
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + agonizante: -0.05433907359838486
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + angustiado: -0.035135190933942795
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + angustiante: 0.26935380697250366
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + contrariado: 0.045864369720220566
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + estressado: -0.1193167120218277
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + inquieto: -0.06084311008453369
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + perturbado: -0.06647850573062897
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + preocupado: 0.5081908106803894
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + triste: 0.2078164964914322
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + acanhado: -0.09397595375776291
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + constrangido: 0.04002382606267929
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + culpado: 0.01038291584700346
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desonrado: -0.032163627445697784
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + encabulado: -0.07474187016487122
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + envergonhado: 0.13662435114383698
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + humilhado: 0.35629451274871826
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + azarado: -0.013262209482491016
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + coitado: -0.004717082716524601
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + deploravel: -0.05992408096790314
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desafortunado: 0.08643439412117004
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desconsolado: -0.0027824456337839365
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desgracado: -0.032549552619457245
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + desprezivel: -0.007944212295114994
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + infeliz: -0.1488640159368515
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + lamentavel: 0.43729904294013977
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + lastimoso: 0.005891698878258467
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + miseravel: 0.3187393248081207
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + patetico: 0.039939336478710175
+----------------------------------------- 
+Palavra + sentimento negativo 
+poodle + pobre: 0.12304885685443878
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + animado: 0.18383271992206573
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + complacente: 0.03966190665960312
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + contentamento: -0.05130185931921005
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + contente: 0.07190443575382233
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + presuncoso: 0.10248604416847229
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + radiante: -0.1260746717453003
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + satisfeito: -0.04267938435077667
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + adoravel: 0.006497031077742577
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + afeicoado: -0.03352251648902893
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + afetuoso: -0.08403672277927399
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + amado: -0.026001283898949623
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + amavel: -0.039487868547439575
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + amoroso: 0.16198976337909698
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + apaixonado: 0.05531525984406471
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + atraido: -0.13762424886226654
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + caloroso: 0.10623396933078766
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + carinhoso: 0.06614115089178085
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + cativado: 0.059044886380434036
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + cuidadoso: 0.03894931823015213
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + dedicado: 0.2026558369398117
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + delicado: 0.019228998571634293
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + devotadissimo: 0.01026387419551611
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + devotado: -0.021081887185573578
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + enamorado: 0.08847921341657639
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + encantado: -0.031132875010371208
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + idolatrico: -0.1395856887102127
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + paternal: -0.0012789556058123708
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + romantico: 0.04501993581652641
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + terno: -0.10849399119615555
+----------------------------------------- 
+Palavra + sentimento positivo 
+poodle + zeloso: -0.021414829418063164
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+eu + decepcionado: 0.24304889142513275
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + derrotado: 0.018844539299607277
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desapontado: 0.06714312732219696
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + frustrado: 0.1422785222530365
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + abalado: -0.019292911514639854
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + abatido: 0.10274156183004379
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + aflito: -0.10562437027692795
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + agoniado: 0.13342584669589996
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + agonizante: -0.015326691791415215
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + angustiado: 0.041162606328725815
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + angustiante: 0.24225005507469177
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + contrariado: -0.07542313635349274
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + estressado: -0.16595663130283356
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + inquieto: -0.04047631472349167
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + perturbado: 0.019376186653971672
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + preocupado: 0.5036168098449707
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + triste: -0.11741441488265991
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + acanhado: -0.14293381571769714
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + constrangido: -0.01390807144343853
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + culpado: -0.08389288187026978
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desonrado: 0.09318125247955322
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + encabulado: 0.04457426071166992
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + envergonhado: 0.003207564353942871
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + humilhado: 0.2577211260795593
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + azarado: 0.11222605407238007
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + coitado: -0.08782333135604858
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + deploravel: -0.029123855754733086
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desafortunado: -0.007159181870520115
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desconsolado: 0.06638913601636887
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desgracado: -0.12024234235286713
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desprezivel: -0.04387948289513588
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + infeliz: -0.1982099562883377
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + lamentavel: 0.46735402941703796
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + lastimoso: 0.06864910572767258
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + miseravel: 0.06760534644126892
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + patetico: 0.013084056787192822
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + pobre: -0.14954708516597748
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + animado: 0.16205181181430817
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + complacente: 0.21633154153823853
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + contentamento: -0.19185830652713776
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + contente: -0.01597757264971733
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + presuncoso: 0.049028582870960236
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + radiante: -0.15053574740886688
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + satisfeito: -0.1772899627685547
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + adoravel: 0.07834571599960327
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + afeicoado: 0.02625824324786663
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + afetuoso: -0.05999556556344032
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amado: 0.014414239674806595
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amavel: -0.037379730492830276
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amoroso: 0.12059003859758377
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + apaixonado: 0.2183224856853485
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + atraido: 0.08474835753440857
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + caloroso: 0.14592589437961578
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + carinhoso: 0.08258085697889328
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + cativado: 0.16022685170173645
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + cuidadoso: 0.05926690995693207
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + dedicado: 0.08123411238193512
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + delicado: 0.07157675921916962
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + devotadissimo: 0.12068459391593933
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + devotado: -0.14950883388519287
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + enamorado: 0.032331984490156174
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + encantado: -0.05866881459951401
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + idolatrico: -0.13180537521839142
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + paternal: 0.060741931200027466
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + romantico: 0.08415921777486801
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + terno: -0.22083677351474762
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + zeloso: 0.05447809398174286
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+respondia + decepcionado: 0.22237369418144226
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + derrotado: -0.0925043523311615
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desapontado: 0.020056340843439102
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + frustrado: 0.19618354737758636
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + abalado: 0.0012646622490137815
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + abatido: 0.15196040272712708
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + aflito: -0.07388689368963242
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + agoniado: 0.0819498673081398
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + agonizante: 0.1035730242729187
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + angustiado: 0.05320353806018829
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + angustiante: 0.1524873673915863
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + contrariado: -0.040983449667692184
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + estressado: -0.12756597995758057
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + inquieto: -0.018475040793418884
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + perturbado: 0.022283019497990608
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + preocupado: 0.26082509756088257
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + triste: -0.15425464510917664
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + acanhado: -0.06583631783723831
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + constrangido: -0.10896225273609161
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + culpado: -0.06298217922449112
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desonrado: 0.015749484300613403
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + encabulado: 0.10773511230945587
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + envergonhado: 0.052470531314611435
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + humilhado: 0.0881001204252243
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + azarado: 0.12342666834592819
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + coitado: -0.07640258222818375
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + deploravel: -0.035288140177726746
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desafortunado: 0.060418982058763504
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desconsolado: 0.053735557943582535
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desgracado: -0.022963963449001312
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + desprezivel: -0.044576868414878845
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + infeliz: -0.20876821875572205
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + lamentavel: 0.19567660987377167
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + lastimoso: -0.1328427791595459
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + miseravel: 0.015908483415842056
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + patetico: 0.06423875689506531
+----------------------------------------- 
+Palavra + sentimento negativo 
+respondia + pobre: -0.11645889282226562
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + animado: 0.20793122053146362
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + complacente: 0.15350380539894104
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + contentamento: -0.12836158275604248
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + contente: 0.026395495980978012
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + presuncoso: 0.05658075213432312
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + radiante: -0.12679359316825867
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + satisfeito: -0.18715597689151764
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + adoravel: 0.0493609718978405
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + afeicoado: -0.047216303646564484
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + afetuoso: -0.011096145957708359
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + amado: 0.02622753009200096
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + amavel: -0.021875010803341866
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + amoroso: -0.014986683614552021
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + apaixonado: 0.014303917996585369
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + atraido: 0.10463649034500122
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + caloroso: 0.0980062261223793
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + carinhoso: -0.036566540598869324
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + cativado: 0.15239176154136658
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + cuidadoso: 0.07339385151863098
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + dedicado: 0.16191613674163818
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + delicado: 0.13639402389526367
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + devotadissimo: 0.07046379894018173
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + devotado: -0.10377967357635498
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + enamorado: 0.030614327639341354
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + encantado: -0.021796928718686104
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + idolatrico: -0.07882288843393326
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + paternal: 0.18394874036312103
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + romantico: 0.10140258073806763
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + terno: -0.1924779862165451
+----------------------------------------- 
+Palavra + sentimento positivo 
+respondia + zeloso: -0.04405980557203293
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+que + decepcionado: 0.2223750799894333
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + derrotado: -0.04895290359854698
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desapontado: 0.04615582525730133
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + frustrado: 0.07520925998687744
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abalado: 0.09530556201934814
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abatido: 0.1577523648738861
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + aflito: -0.04398579150438309
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agoniado: 0.04851780831813812
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agonizante: 0.010055646300315857
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiado: -0.019213508814573288
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiante: 0.14487490057945251
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + contrariado: -0.09108729660511017
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + estressado: -0.03808526694774628
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + inquieto: -0.009465925395488739
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + perturbado: 0.03826209902763367
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + preocupado: 0.5113780498504639
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + triste: -0.03891594335436821
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + acanhado: -0.08538653701543808
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + constrangido: 0.010085366666316986
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + culpado: -0.09158015251159668
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desonrado: 0.0857158973813057
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + encabulado: -0.023786017671227455
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + envergonhado: -0.07996103912591934
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + humilhado: 0.3582230806350708
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + azarado: 0.09624851495027542
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + coitado: -0.04268991947174072
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + deploravel: -0.06725858151912689
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desafortunado: 0.05157579109072685
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desconsolado: 0.09528524428606033
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desgracado: -0.08261093497276306
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desprezivel: -0.031510449945926666
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + infeliz: -0.17235542833805084
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lamentavel: 0.2728293538093567
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lastimoso: -0.02545418031513691
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + miseravel: -0.049394089728593826
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + patetico: 0.07109525054693222
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + pobre: -0.17442665994167328
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + animado: 0.13839343190193176
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + complacente: 0.24242320656776428
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contentamento: -0.15848524868488312
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contente: 0.011964294128119946
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + presuncoso: 0.03759083151817322
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + radiante: -0.21912731230258942
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + satisfeito: -0.17636342346668243
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + adoravel: 0.08871502429246902
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afeicoado: 0.04149181395769119
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afetuoso: -0.05638739466667175
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amado: 0.044396158307790756
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amavel: 0.05261160805821419
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amoroso: 0.1026717871427536
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + apaixonado: 0.07930541038513184
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + atraido: 0.07916175574064255
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + caloroso: 0.12481271475553513
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + carinhoso: -0.029042111709713936
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cativado: 0.10015435516834259
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cuidadoso: 0.08279338479042053
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + dedicado: 0.07404839992523193
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + delicado: 0.12846559286117554
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotadissimo: 0.09836149960756302
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotado: -0.07894359529018402
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + enamorado: 0.13244563341140747
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + encantado: 0.002472708933055401
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + idolatrico: -0.1369098275899887
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + paternal: 0.07957232743501663
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + romantico: 0.15813326835632324
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + terno: -0.2952296733856201
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + zeloso: 0.15902665257453918
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+tinha + decepcionado: 0.22741635143756866
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + derrotado: -0.11306727677583694
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desapontado: 0.029814088717103004
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + frustrado: 0.08906444907188416
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + abalado: 0.08358710259199142
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + abatido: -0.008024594746530056
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + aflito: -0.1302460879087448
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + agoniado: 0.004351927898824215
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + agonizante: 0.003618603805080056
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + angustiado: -0.0693662241101265
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + angustiante: 0.10591785609722137
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + contrariado: -0.02910432778298855
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + estressado: -0.08422300219535828
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + inquieto: -0.02542080171406269
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + perturbado: -0.01363015454262495
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + preocupado: 0.32007846236228943
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + triste: 0.06541946530342102
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + acanhado: 0.016018744558095932
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + constrangido: -0.05229892581701279
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + culpado: 0.02412087470293045
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desonrado: -0.05192689225077629
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + encabulado: 0.024589331820607185
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + envergonhado: 0.10244165360927582
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + humilhado: 0.3938497006893158
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + azarado: 0.04371701180934906
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + coitado: 0.029928816482424736
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + deploravel: -0.07746240496635437
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desafortunado: -0.04485714063048363
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desconsolado: 0.19858796894550323
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desgracado: -0.07109620422124863
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + desprezivel: 0.022085849195718765
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + infeliz: -0.08525895327329636
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + lamentavel: 0.3486376106739044
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + lastimoso: -0.08092392981052399
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + miseravel: -0.09509134292602539
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + patetico: 0.04876714199781418
+----------------------------------------- 
+Palavra + sentimento negativo 
+tinha + pobre: -0.08570520579814911
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + animado: 0.18844617903232574
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + complacente: 0.05044572427868843
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + contentamento: -0.2259628176689148
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + contente: -0.11844531446695328
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + presuncoso: 0.09813471138477325
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + radiante: -0.107550248503685
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + satisfeito: -0.12473247945308685
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + adoravel: 0.1909048706293106
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + afeicoado: 0.02574080228805542
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + afetuoso: 0.08596692979335785
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + amado: 0.10579080134630203
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + amavel: -0.009389967657625675
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + amoroso: 0.11976755410432816
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + apaixonado: 0.09241869300603867
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + atraido: 0.06961458176374435
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + caloroso: 0.1611674576997757
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + carinhoso: 0.10361236333847046
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + cativado: 0.0780654326081276
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + cuidadoso: 0.06259593367576599
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + dedicado: 0.13901063799858093
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + delicado: 0.06555185467004776
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + devotadissimo: -0.008344450034201145
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + devotado: -0.05747007206082344
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + enamorado: 0.06345191597938538
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + encantado: -0.0683763399720192
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + idolatrico: -0.13496024906635284
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + paternal: 0.08277255296707153
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + romantico: 0.034693244844675064
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + terno: -0.18001210689544678
+----------------------------------------- 
+Palavra + sentimento positivo 
+tinha + zeloso: -0.00997641310095787
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+horario + decepcionado: 0.16108115017414093
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + derrotado: -0.13963143527507782
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desapontado: 0.09143032133579254
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + frustrado: 0.09032272547483444
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + abalado: 0.03426843509078026
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + abatido: 0.013208278454840183
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + aflito: -0.1757979542016983
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + agoniado: 0.004938631318509579
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + agonizante: 0.06442869454622269
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + angustiado: -0.007578499615192413
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + angustiante: 0.19232024252414703
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + contrariado: -0.05980421602725983
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + estressado: -0.11904016137123108
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + inquieto: -0.03715643286705017
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + perturbado: -0.004391833208501339
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + preocupado: 0.4012644290924072
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + triste: 0.04530595615506172
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + acanhado: -0.007879243232309818
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + constrangido: -0.11928492784500122
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + culpado: 0.022032886743545532
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desonrado: 0.028553619980812073
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + encabulado: -0.1714009791612625
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + envergonhado: 0.11807583272457123
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + humilhado: 0.3920665383338928
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + azarado: 0.13179226219654083
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + coitado: -0.0765610933303833
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + deploravel: -0.04427315667271614
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desafortunado: -0.03234681859612465
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desconsolado: 0.041326235979795456
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desgracado: -0.10245530307292938
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + desprezivel: 0.007990204729139805
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + infeliz: -0.15730254352092743
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + lamentavel: 0.3635045886039734
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + lastimoso: -0.029039019718766212
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + miseravel: -0.15285851061344147
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + patetico: 0.11773643642663956
+----------------------------------------- 
+Palavra + sentimento negativo 
+horario + pobre: -0.09202311187982559
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + animado: 0.22971761226654053
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + complacente: 0.09562883526086807
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + contentamento: -0.1629742830991745
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + contente: -0.1317274570465088
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + presuncoso: -0.04921649396419525
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + radiante: -0.1402178406715393
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + satisfeito: -0.07684986293315887
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + adoravel: 0.18036822974681854
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + afeicoado: -0.010904219001531601
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + afetuoso: -0.01087984163314104
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + amado: 0.1534949690103531
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + amavel: 0.08438035100698471
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + amoroso: 0.12211145460605621
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + apaixonado: 0.09374501556158066
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + atraido: 0.03474479541182518
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + caloroso: 0.11589034646749496
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + carinhoso: 0.036673493683338165
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + cativado: 0.18935616314411163
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + cuidadoso: 0.1434629112482071
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + dedicado: 0.11676011979579926
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + delicado: 0.1381404548883438
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + devotadissimo: -0.001963251968845725
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + devotado: -0.08739010989665985
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + enamorado: 0.09986903518438339
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + encantado: -0.026439888402819633
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + idolatrico: -0.15101470053195953
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + paternal: 0.0823744386434555
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + romantico: 0.07271964102983475
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + terno: -0.1780429184436798
+----------------------------------------- 
+Palavra + sentimento positivo 
+horario + zeloso: 0.014185164123773575
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+marcado + decepcionado: 0.3046942353248596
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + derrotado: -0.052573855966329575
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desapontado: 0.03007183037698269
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + frustrado: 0.09209337085485458
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + abalado: 0.07619605958461761
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + abatido: 0.02418266423046589
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + aflito: -0.07677189260721207
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + agoniado: 0.0548926517367363
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + agonizante: 0.059289149940013885
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + angustiado: -0.06322318315505981
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + angustiante: 0.13098058104515076
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + contrariado: 0.031647611409425735
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + estressado: -0.04515332356095314
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + inquieto: -0.037487104535102844
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + perturbado: -0.07910802215337753
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + preocupado: 0.35533541440963745
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + triste: -0.07382724434137344
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + acanhado: -0.10498368740081787
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + constrangido: -0.013798980042338371
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + culpado: 0.0551261380314827
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desonrado: 0.025020653381943703
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + encabulado: -0.09860040247440338
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + envergonhado: 0.06800223886966705
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + humilhado: 0.38830697536468506
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + azarado: 0.1474868506193161
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + coitado: -0.1373555213212967
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + deploravel: -0.11570743471384048
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desafortunado: -0.0604119636118412
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desconsolado: 0.13328060507774353
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desgracado: -0.1095663532614708
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + desprezivel: -0.04376683756709099
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + infeliz: -0.06020456552505493
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + lamentavel: 0.40146204829216003
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + lastimoso: -0.014371536672115326
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + miseravel: -0.14666716754436493
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + patetico: 0.03958750516176224
+----------------------------------------- 
+Palavra + sentimento negativo 
+marcado + pobre: -0.15352937579154968
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + animado: 0.21179960668087006
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + complacente: 0.1291525810956955
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + contentamento: -0.1060105711221695
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + contente: -0.08143768459558487
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + presuncoso: 0.034041568636894226
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + radiante: -0.13742388784885406
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + satisfeito: -0.1845676600933075
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + adoravel: 0.13414131104946136
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + afeicoado: 0.07746487855911255
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + afetuoso: 1.5857016842346638E-4
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + amado: 0.03087913990020752
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + amavel: 0.11488305032253265
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + amoroso: 0.07482285052537918
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + apaixonado: 0.06465817242860794
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + atraido: 0.061294764280319214
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + caloroso: 0.14878085255622864
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + carinhoso: 0.10290317982435226
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + cativado: 0.1782745122909546
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + cuidadoso: 0.09431197494268417
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + dedicado: 0.08734885603189468
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + delicado: 0.07030373066663742
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + devotadissimo: 0.023344136774539948
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + devotado: -0.06595766544342041
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + enamorado: 0.11165328323841095
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + encantado: 0.013846177607774734
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + idolatrico: -0.066338911652565
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + paternal: 0.11935673654079437
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + romantico: 0.051668211817741394
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + terno: -0.1390935778617859
+----------------------------------------- 
+Palavra + sentimento positivo 
+marcado + zeloso: -0.03197610378265381
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+no + decepcionado: 0.26638689637184143
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + derrotado: -0.049202561378479004
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desapontado: 0.05644497647881508
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + frustrado: 0.17291921377182007
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + abalado: 0.014924990944564342
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + abatido: 0.13836748898029327
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + aflito: -0.03469342738389969
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + agoniado: 0.05015898495912552
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + agonizante: 0.12984789907932281
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + angustiado: -0.08234435319900513
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + angustiante: 0.23083563148975372
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + contrariado: -0.062217388302087784
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + estressado: -0.1455916315317154
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + inquieto: -0.07673342525959015
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + perturbado: -0.01697946898639202
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + preocupado: 0.37796181440353394
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + triste: -0.09316441416740417
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + acanhado: -0.14869734644889832
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + constrangido: -0.05658968538045883
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + culpado: -0.09633316099643707
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desonrado: 0.025538817048072815
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + encabulado: 0.01789945177733898
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + envergonhado: -0.02355160377919674
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + humilhado: 0.37001004815101624
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + azarado: 0.1095956563949585
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + coitado: -0.140774667263031
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + deploravel: -0.019835198298096657
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desafortunado: -0.051597632467746735
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desconsolado: 0.12589988112449646
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desgracado: -0.1596132218837738
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + desprezivel: 0.016243048012256622
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + infeliz: -0.14651425182819366
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + lamentavel: 0.3629152178764343
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + lastimoso: -0.08112744987010956
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + miseravel: -0.2012350857257843
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + patetico: 0.07975311577320099
+----------------------------------------- 
+Palavra + sentimento negativo 
+no + pobre: -0.29109522700309753
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + animado: 0.10113644599914551
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + complacente: 0.2459813505411148
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + contentamento: -0.11955520510673523
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + contente: -0.04763287678360939
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + presuncoso: 0.07172121107578278
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + radiante: -0.11511074751615524
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + satisfeito: -0.2591218650341034
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + adoravel: 0.15105611085891724
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + afeicoado: 0.028495918959379196
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + afetuoso: 0.017318367958068848
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + amado: 0.13074472546577454
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + amavel: 0.00683072954416275
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + amoroso: 0.09275257587432861
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + apaixonado: 0.08589891344308853
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + atraido: 0.06343179196119308
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + caloroso: 0.18710841238498688
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + carinhoso: -0.03367095813155174
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + cativado: 0.20626117289066315
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + cuidadoso: 0.12621496617794037
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + dedicado: 0.11011066287755966
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + delicado: 0.1170431599020958
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + devotadissimo: -0.0066233109682798386
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + devotado: -0.08563569188117981
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + enamorado: 0.05692427232861519
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + encantado: -0.05941179022192955
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + idolatrico: -0.1732328087091446
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + paternal: 0.14943848550319672
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + romantico: 0.11347547173500061
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + terno: -0.2107359617948532
+----------------------------------------- 
+Palavra + sentimento positivo 
+no + zeloso: 0.07669492810964584
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+petshop + decepcionado: 0.20938777923583984
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + derrotado: -0.0871054008603096
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desapontado: 0.15907931327819824
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + frustrado: 0.022941306233406067
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + abalado: -0.033564429730176926
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + abatido: 0.05363890156149864
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + aflito: -0.03812065348029137
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + agoniado: -0.009690030477941036
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + agonizante: 0.12965229153633118
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + angustiado: -0.020425189286470413
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + angustiante: 0.2259526550769806
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + contrariado: -0.08827747404575348
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + estressado: -0.09698379039764404
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + inquieto: -0.15142424404621124
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + perturbado: 0.06982603669166565
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + preocupado: 0.3199564814567566
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + triste: 0.09911388158798218
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + acanhado: -0.0854571983218193
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + constrangido: -0.1033674031496048
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + culpado: 0.012679221108555794
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desonrado: 0.05846904590725899
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + encabulado: -0.12118077278137207
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + envergonhado: 0.034591738134622574
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + humilhado: 0.4155162274837494
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + azarado: 0.03535241633653641
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + coitado: -0.06565037369728088
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + deploravel: -0.1487697809934616
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desafortunado: -0.01775018870830536
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desconsolado: 0.04442308470606804
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desgracado: -0.1164301335811615
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + desprezivel: 0.06979230046272278
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + infeliz: -0.06647610664367676
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + lamentavel: 0.3806479573249817
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + lastimoso: 0.062189340591430664
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + miseravel: -0.14403080940246582
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + patetico: 0.03248249366879463
+----------------------------------------- 
+Palavra + sentimento negativo 
+petshop + pobre: 0.001728255650959909
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + animado: 0.2793775796890259
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + complacente: 0.14924566447734833
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + contentamento: -0.2064191997051239
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + contente: -0.016268428415060043
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + presuncoso: 0.06611102819442749
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + radiante: -0.009876287542283535
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + satisfeito: -0.09896334260702133
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + adoravel: 0.22887593507766724
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + afeicoado: -0.06680437177419662
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + afetuoso: -0.036174748092889786
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + amado: -0.003904910059645772
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + amavel: 0.0022009757813066244
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + amoroso: 0.0939449816942215
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + apaixonado: 0.11447826027870178
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + atraido: -0.1473725438117981
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + caloroso: 0.20587986707687378
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + carinhoso: 0.006126529071480036
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + cativado: 0.1259799301624298
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + cuidadoso: -0.015497744083404541
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + dedicado: 0.01993398927152157
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + delicado: -0.02245810069143772
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + devotadissimo: -0.006321535911411047
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + devotado: -0.03148780018091202
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + enamorado: 0.03346524387598038
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + encantado: -0.038186557590961456
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + idolatrico: -0.08465055376291275
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + paternal: 0.012993350625038147
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + romantico: 0.0201890766620636
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + terno: -0.16899222135543823
+----------------------------------------- 
+Palavra + sentimento positivo 
+petshop + zeloso: 0.06708283722400665
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+toda + decepcionado: -0.150662362575531
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + derrotado: -0.06957036256790161
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desapontado: 0.11069460213184357
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + frustrado: 0.14474599063396454
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + abalado: 0.06128948926925659
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + abatido: -0.303439199924469
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + aflito: 0.06510169804096222
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + agoniado: -0.027341002598404884
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + agonizante: -0.1382680982351303
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + angustiado: 0.08245523273944855
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + angustiante: -0.19913126528263092
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + contrariado: 0.20650441944599152
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + estressado: 0.01535776536911726
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + inquieto: 0.11277647316455841
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + perturbado: -0.06924621760845184
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + preocupado: -0.06819485127925873
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + triste: 0.12027491629123688
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + acanhado: -0.15671055018901825
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + constrangido: 0.0015051672235131264
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + culpado: 0.06521924585103989
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desonrado: -0.12600593268871307
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + encabulado: -0.09602426737546921
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + envergonhado: 0.17126019299030304
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + humilhado: 0.22538290917873383
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + azarado: -0.027416421100497246
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + coitado: 0.09969574213027954
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + deploravel: 0.10304003953933716
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desafortunado: 0.035612206906080246
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desconsolado: 0.11616478115320206
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desgracado: 0.115639828145504
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + desprezivel: 0.03434150293469429
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + infeliz: 0.057770587503910065
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + lamentavel: 0.12853313982486725
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + lastimoso: -0.014587641693651676
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + miseravel: -0.15399298071861267
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + patetico: 0.06485787034034729
+----------------------------------------- 
+Palavra + sentimento negativo 
+toda + pobre: 0.24013130366802216
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + animado: -0.021573131904006004
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + complacente: -0.12204904854297638
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + contentamento: 0.1172482967376709
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + contente: 0.0735798254609108
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + presuncoso: 0.061473242938518524
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + radiante: -0.02267487905919552
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + satisfeito: 0.009341736324131489
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + adoravel: -0.0025753590743988752
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + afeicoado: -0.09023862332105637
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + afetuoso: 0.07078062742948532
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + amado: 0.07598283886909485
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + amavel: -0.05001252889633179
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + amoroso: 0.0627649575471878
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + apaixonado: -0.049346793442964554
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + atraido: -0.25305163860321045
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + caloroso: 0.011151676997542381
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + carinhoso: 0.050289154052734375
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + cativado: 0.013590984046459198
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + cuidadoso: 0.057141657918691635
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + dedicado: 0.2264053225517273
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + delicado: -0.1834072768688202
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + devotadissimo: -0.2066975235939026
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + devotado: 0.12071466445922852
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + enamorado: 0.10578155517578125
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + encantado: -0.052080847322940826
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + idolatrico: -0.09786810725927353
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + paternal: 0.008088754490017891
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + romantico: 0.037491969764232635
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + terno: 0.0679500624537468
+----------------------------------------- 
+Palavra + sentimento positivo 
+toda + zeloso: 0.020726202055811882
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+semana + decepcionado: 0.013217094354331493
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + derrotado: -0.12064989656209946
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desapontado: 0.035966094583272934
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + frustrado: 0.1588796079158783
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + abalado: 0.09304670989513397
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + abatido: -0.06822046637535095
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + aflito: -0.11090784519910812
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + agoniado: 0.06701860576868057
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + agonizante: 0.0343671478331089
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + angustiado: -0.05020856112241745
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + angustiante: 0.12427640706300735
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + contrariado: 0.06007497012615204
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + estressado: -0.13024404644966125
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + inquieto: -0.06514468789100647
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + perturbado: -0.05262656509876251
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + preocupado: 0.20581015944480896
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + triste: 0.22503073513507843
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + acanhado: 0.051298536360263824
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + constrangido: 0.014595252461731434
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + culpado: 0.05617799609899521
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desonrado: -0.09285185486078262
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + encabulado: -0.12228826433420181
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + envergonhado: 0.25092700123786926
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + humilhado: 0.3082965016365051
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + azarado: 0.028075946494936943
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + coitado: 0.1300855129957199
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + deploravel: 0.09701485186815262
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desafortunado: -0.1273215413093567
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desconsolado: 0.0728786289691925
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desgracado: -0.13027431070804596
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + desprezivel: 0.08514167368412018
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + infeliz: -0.1558050513267517
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + lamentavel: 0.37881234288215637
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + lastimoso: 0.014084862545132637
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + miseravel: -0.04916927218437195
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + patetico: 0.0012111080577597022
+----------------------------------------- 
+Palavra + sentimento negativo 
+semana + pobre: -0.126600444316864
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + animado: -0.03842945396900177
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + complacente: -0.06481197476387024
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + contentamento: -0.0377693772315979
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + contente: 0.027177706360816956
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + presuncoso: -0.0014912098413333297
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + radiante: -0.033973827958106995
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + satisfeito: -0.15301938354969025
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + adoravel: -0.01778576895594597
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + afeicoado: 0.002913834061473608
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + afetuoso: 0.018086789175868034
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + amado: 0.08092813193798065
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + amavel: -0.029825428500771523
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + amoroso: 0.16201631724834442
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + apaixonado: 0.017963822931051254
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + atraido: 0.03150084987282753
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + caloroso: 0.05045090243220329
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + carinhoso: 0.12480238080024719
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + cativado: 0.14777551591396332
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + cuidadoso: 0.10342597961425781
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + dedicado: 0.15788356959819794
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + delicado: 0.06596053391695023
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + devotadissimo: -0.103971928358078
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + devotado: 0.04870302602648735
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + enamorado: -0.049983423203229904
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + encantado: -0.03834289684891701
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + idolatrico: -0.10946200788021088
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + paternal: -0.04292268306016922
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + romantico: -0.03964212164282799
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + terno: -0.07980943471193314
+----------------------------------------- 
+Palavra + sentimento positivo 
+semana + zeloso: -0.017373401671648026
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+mas + decepcionado: 0.2477090209722519
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + derrotado: -0.07758700102567673
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desapontado: 0.07859496027231216
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + frustrado: 0.17531415820121765
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + abalado: -0.013420271687209606
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + abatido: 0.13267433643341064
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + aflito: -0.1369614452123642
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + agoniado: 0.07759103924036026
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + agonizante: 0.03220085799694061
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + angustiado: 0.03963682800531387
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + angustiante: 0.23036865890026093
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + contrariado: -0.031736262142658234
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + estressado: -0.1423082947731018
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + inquieto: 0.01824289932847023
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + perturbado: -0.06053904443979263
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + preocupado: 0.43188172578811646
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + triste: -0.014595110900700092
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + acanhado: -0.14346323907375336
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + constrangido: -0.07376927882432938
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + culpado: -0.015341832302510738
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desonrado: 0.08345679193735123
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + encabulado: 0.05295191705226898
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + envergonhado: 0.08205530792474747
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + humilhado: 0.28753066062927246
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + azarado: 0.02387191541492939
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + coitado: -0.08115950971841812
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + deploravel: -0.11110921949148178
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desafortunado: -0.06901737302541733
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desconsolado: 0.05300312861800194
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desgracado: -0.12174398452043533
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + desprezivel: -0.037456292659044266
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + infeliz: -0.10641034692525864
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + lamentavel: 0.48683246970176697
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + lastimoso: 0.011124680750072002
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + miseravel: 0.02203531190752983
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + patetico: 0.04498181492090225
+----------------------------------------- 
+Palavra + sentimento negativo 
+mas + pobre: -0.15146896243095398
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + animado: 0.18208961188793182
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + complacente: 0.14517325162887573
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + contentamento: -0.17703618109226227
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + contente: -0.044827256351709366
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + presuncoso: 0.035246528685092926
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + radiante: -0.11460722237825394
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + satisfeito: -0.1315312385559082
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + adoravel: 0.06022002547979355
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + afeicoado: 0.01147511601448059
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + afetuoso: -0.10151868313550949
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + amado: 0.05917411297559738
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + amavel: 0.04439534246921539
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + amoroso: 0.09651156514883041
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + apaixonado: 0.17457833886146545
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + atraido: 0.025883609429001808
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + caloroso: 0.20724041759967804
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + carinhoso: -0.011514676734805107
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + cativado: 0.11881714314222336
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + cuidadoso: 0.06936296820640564
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + dedicado: 0.12107960879802704
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + delicado: 0.05338868498802185
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + devotadissimo: 0.11994129419326782
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + devotado: -0.10917691886425018
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + enamorado: 0.026064686477184296
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + encantado: -0.06500283628702164
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + idolatrico: -0.1015922874212265
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + paternal: 0.148635134100914
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + romantico: 0.08050227910280228
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + terno: -0.20952317118644714
+----------------------------------------- 
+Palavra + sentimento positivo 
+mas + zeloso: 0.004931026604026556
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+que + decepcionado: 0.2223750799894333
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + derrotado: -0.04895290359854698
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desapontado: 0.04615582525730133
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + frustrado: 0.07520925998687744
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abalado: 0.09530556201934814
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + abatido: 0.1577523648738861
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + aflito: -0.04398579150438309
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agoniado: 0.04851780831813812
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + agonizante: 0.010055646300315857
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiado: -0.019213508814573288
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + angustiante: 0.14487490057945251
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + contrariado: -0.09108729660511017
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + estressado: -0.03808526694774628
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + inquieto: -0.009465925395488739
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + perturbado: 0.03826209902763367
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + preocupado: 0.5113780498504639
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + triste: -0.03891594335436821
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + acanhado: -0.08538653701543808
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + constrangido: 0.010085366666316986
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + culpado: -0.09158015251159668
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desonrado: 0.0857158973813057
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + encabulado: -0.023786017671227455
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + envergonhado: -0.07996103912591934
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + humilhado: 0.3582230806350708
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + azarado: 0.09624851495027542
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + coitado: -0.04268991947174072
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + deploravel: -0.06725858151912689
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desafortunado: 0.05157579109072685
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desconsolado: 0.09528524428606033
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desgracado: -0.08261093497276306
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + desprezivel: -0.031510449945926666
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + infeliz: -0.17235542833805084
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lamentavel: 0.2728293538093567
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + lastimoso: -0.02545418031513691
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + miseravel: -0.049394089728593826
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + patetico: 0.07109525054693222
+----------------------------------------- 
+Palavra + sentimento negativo 
+que + pobre: -0.17442665994167328
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + animado: 0.13839343190193176
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + complacente: 0.24242320656776428
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contentamento: -0.15848524868488312
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + contente: 0.011964294128119946
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + presuncoso: 0.03759083151817322
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + radiante: -0.21912731230258942
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + satisfeito: -0.17636342346668243
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + adoravel: 0.08871502429246902
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afeicoado: 0.04149181395769119
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + afetuoso: -0.05638739466667175
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amado: 0.044396158307790756
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amavel: 0.05261160805821419
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + amoroso: 0.1026717871427536
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + apaixonado: 0.07930541038513184
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + atraido: 0.07916175574064255
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + caloroso: 0.12481271475553513
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + carinhoso: -0.029042111709713936
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cativado: 0.10015435516834259
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + cuidadoso: 0.08279338479042053
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + dedicado: 0.07404839992523193
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + delicado: 0.12846559286117554
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotadissimo: 0.09836149960756302
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + devotado: -0.07894359529018402
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + enamorado: 0.13244563341140747
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + encantado: 0.002472708933055401
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + idolatrico: -0.1369098275899887
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + paternal: 0.07957232743501663
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + romantico: 0.15813326835632324
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + terno: -0.2952296733856201
+----------------------------------------- 
+Palavra + sentimento positivo 
+que + zeloso: 0.15902665257453918
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+a + decepcionado: -0.18978625535964966
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + derrotado: 0.012253070250153542
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desapontado: 0.18200790882110596
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + frustrado: -0.02833583578467369
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + abalado: -0.041204046458005905
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + abatido: 0.041633203625679016
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + aflito: 0.032173994928598404
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + agoniado: 0.013581663370132446
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + agonizante: 0.08179227262735367
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + angustiado: 0.10415159165859222
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + angustiante: 0.07128426432609558
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + contrariado: -0.12558810412883759
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + estressado: -0.03122691437602043
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + inquieto: -0.02647530846297741
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + perturbado: 0.10368116199970245
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + preocupado: 0.23407021164894104
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + triste: 0.18878112733364105
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + acanhado: 5.78352774027735E-4
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + constrangido: 0.08988970518112183
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + culpado: 0.03500811383128166
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desonrado: 0.1801217943429947
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + encabulado: -0.21881620585918427
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + envergonhado: 0.0021475846879184246
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + humilhado: 0.18469426035881042
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + azarado: -0.14562073349952698
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + coitado: 0.13574746251106262
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + deploravel: -0.017275024205446243
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desafortunado: 0.1135098934173584
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desconsolado: -0.1644655466079712
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desgracado: -0.025578809902071953
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + desprezivel: 0.14840248227119446
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + infeliz: -0.13611528277397156
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + lamentavel: 0.034075915813446045
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + lastimoso: 0.2364618182182312
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + miseravel: 0.12262128293514252
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + patetico: -0.025924144312739372
+----------------------------------------- 
+Palavra + sentimento negativo 
+a + pobre: 0.018336938694119453
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + animado: -0.07208579778671265
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + complacente: 0.08477938920259476
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + contentamento: 0.00679130619391799
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + contente: 0.06851119548082352
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + presuncoso: -0.15382099151611328
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + radiante: -0.14079853892326355
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + satisfeito: 0.13283666968345642
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + adoravel: -0.05931764096021652
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + afeicoado: -0.018247846513986588
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + afetuoso: -0.04532745108008385
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + amado: -0.03991217538714409
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + amavel: 0.06148039549589157
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + amoroso: 0.04247849062085152
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + apaixonado: 0.04799483343958855
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + atraido: -0.03919399157166481
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + caloroso: 0.014118554070591927
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + carinhoso: -0.052309028804302216
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + cativado: -0.056842170655727386
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + cuidadoso: 0.08003824949264526
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + dedicado: 0.014544742181897163
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + delicado: 0.09700041264295578
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + devotadissimo: 0.007819650694727898
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + devotado: -0.16002027690410614
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + enamorado: -0.15264689922332764
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + encantado: -0.03176029026508331
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + idolatrico: 0.042187172919511795
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + paternal: -0.09658131003379822
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + romantico: -0.09096986055374146
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + terno: -0.2686615288257599
+----------------------------------------- 
+Palavra + sentimento positivo 
+a + zeloso: 0.0801127478480339
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+cadela + decepcionado: 0.10466572642326355
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + derrotado: -0.10674504190683365
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desapontado: 0.08492067456245422
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + frustrado: 0.02569606900215149
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + abalado: -0.05031224712729454
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + abatido: 0.06818193942308426
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + aflito: -0.10216719657182693
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + agoniado: 0.04525420069694519
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + agonizante: -0.05331943929195404
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + angustiado: -0.13802656531333923
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + angustiante: 0.2161562740802765
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + contrariado: 0.04324553161859512
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + estressado: -0.14112365245819092
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + inquieto: -0.0775553360581398
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + perturbado: -0.1487969309091568
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + preocupado: 0.40374258160591125
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + triste: 0.05731787905097008
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + acanhado: 0.009987522847950459
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + constrangido: -0.024898912757635117
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + culpado: -0.10344823449850082
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desonrado: -0.08245483040809631
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + encabulado: -0.08014257252216339
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + envergonhado: 0.03277608007192612
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + humilhado: 0.27912914752960205
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + azarado: 0.03328416496515274
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + coitado: -0.18131154775619507
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + deploravel: -0.06658434122800827
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desafortunado: 0.009839504957199097
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desconsolado: -0.006310019642114639
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desgracado: -0.09177655726671219
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + desprezivel: 0.0015067420899868011
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + infeliz: -0.16900363564491272
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + lamentavel: 0.4175805151462555
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + lastimoso: 0.10598377883434296
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + miseravel: 0.09860467165708542
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + patetico: 0.08407701551914215
+----------------------------------------- 
+Palavra + sentimento negativo 
+cadela + pobre: -0.05441869795322418
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + animado: 0.10871336609125137
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + complacente: 0.045655298978090286
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + contentamento: -0.0931064784526825
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + contente: 0.019283564761281013
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + presuncoso: -0.017849721014499664
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + radiante: -0.14620986580848694
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + satisfeito: -0.03841853141784668
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + adoravel: 0.07412051409482956
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + afeicoado: 0.13414312899112701
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + afetuoso: -0.019510610029101372
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + amado: 0.009186085313558578
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + amavel: 0.01346602477133274
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + amoroso: 0.06964395940303802
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + apaixonado: 0.10745131969451904
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + atraido: -0.03414386883378029
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + caloroso: 0.060753971338272095
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + carinhoso: -0.05011550709605217
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + cativado: 0.015192516148090363
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + cuidadoso: -0.0035332427360117435
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + dedicado: 0.044573403894901276
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + delicado: -0.00859881192445755
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + devotadissimo: 0.01873786933720112
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + devotado: -0.025438081473112106
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + enamorado: 0.02835545875132084
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + encantado: -0.09045533090829849
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + idolatrico: -0.22166036069393158
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + paternal: 0.0573430135846138
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + romantico: 0.05982106924057007
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + terno: -0.17589090764522552
+----------------------------------------- 
+Palavra + sentimento positivo 
+cadela + zeloso: 0.12987641990184784
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+nao + decepcionado: -0.05580877885222435
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + derrotado: -0.12809841334819794
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desapontado: 0.03266964107751846
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + frustrado: 0.09123123437166214
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + abalado: -0.061460942029953
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + abatido: -0.04903281852602959
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + aflito: -0.037882257252931595
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + agoniado: 0.03765048086643219
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + agonizante: -0.02844933606684208
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + angustiado: -0.10122967511415482
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + angustiante: 0.21321086585521698
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + contrariado: 0.04194268956780434
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + estressado: -0.2836676239967346
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + inquieto: 0.07286697626113892
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + perturbado: -0.12795193493366241
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + preocupado: 0.09651315212249756
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + triste: 0.1044386476278305
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + acanhado: 0.09600791335105896
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + constrangido: 0.07785748690366745
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + culpado: -0.1904163360595703
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desonrado: -0.038555633276700974
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + encabulado: 0.02233080007135868
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + envergonhado: -0.1106305792927742
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + humilhado: 0.06256969273090363
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + azarado: -0.05958385765552521
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + coitado: -0.05833066999912262
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + deploravel: -0.03709118440747261
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desafortunado: 0.16177703440189362
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desconsolado: -0.014291360042989254
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desgracado: 0.0027032040525227785
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + desprezivel: 0.05568661540746689
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + infeliz: 0.03134899213910103
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + lamentavel: 0.203730508685112
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + lastimoso: 0.023195680230855942
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + miseravel: 0.4187104403972626
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + patetico: -0.007632194086909294
+----------------------------------------- 
+Palavra + sentimento negativo 
+nao + pobre: 0.08681616932153702
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + animado: -0.05460153520107269
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + complacente: 0.04274367168545723
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + contentamento: -0.026655174791812897
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + contente: -0.12274983525276184
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + presuncoso: 0.017846032977104187
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + radiante: 0.04544490575790405
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + satisfeito: -0.09946250915527344
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + adoravel: -0.060402072966098785
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + afeicoado: -0.12093865126371384
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + afetuoso: -0.051680538803339005
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + amado: 0.12591712176799774
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + amavel: -0.04897870123386383
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + amoroso: 0.13049271702766418
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + apaixonado: 0.041936468333005905
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + atraido: -0.0978158563375473
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + caloroso: -0.1543012410402298
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + carinhoso: 0.0897597074508667
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + cativado: 0.033893339335918427
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + cuidadoso: -0.05214870721101761
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + dedicado: -0.013668193481862545
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + delicado: -0.19774509966373444
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + devotadissimo: 0.008780219592154026
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + devotado: 0.025745470076799393
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + enamorado: 0.04140283539891243
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + encantado: -0.07432359457015991
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + idolatrico: -0.050506532192230225
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + paternal: 0.11911589652299881
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + romantico: -0.061506956815719604
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + terno: 0.037292368710041046
+----------------------------------------- 
+Palavra + sentimento positivo 
+nao + zeloso: -0.02585255354642868
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+era + decepcionado: 0.12903615832328796
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + derrotado: -0.20645298063755035
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desapontado: -0.053092241287231445
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + frustrado: 0.04908272251486778
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + abalado: -0.003698253072798252
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + abatido: 0.17493635416030884
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + aflito: 0.0672527477145195
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + agoniado: 0.0500343032181263
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + agonizante: -0.1365603506565094
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + angustiado: -0.06882995367050171
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + angustiante: 0.20012371242046356
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + contrariado: -0.11334958672523499
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + estressado: -0.035065002739429474
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + inquieto: -0.018638983368873596
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + perturbado: 0.04602816700935364
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + preocupado: 0.3234747648239136
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + triste: -0.002640009159222245
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + acanhado: -0.0036307096015661955
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + constrangido: 0.02433079667389393
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + culpado: 0.10251793265342712
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desonrado: 0.005103116389364004
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + encabulado: -0.031209945678710938
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + envergonhado: 0.11267424374818802
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + humilhado: 0.2087993174791336
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + azarado: 0.24827146530151367
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + coitado: -0.0742049589753151
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + deploravel: -0.1210055947303772
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desafortunado: 0.006436133291572332
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desconsolado: 0.047787558287382126
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desgracado: -0.05304654315114021
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + desprezivel: -0.11216679215431213
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + infeliz: -0.15253889560699463
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + lamentavel: 0.32911980152130127
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + lastimoso: 0.05179819092154503
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + miseravel: 0.011426985263824463
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + patetico: 0.05349365621805191
+----------------------------------------- 
+Palavra + sentimento negativo 
+era + pobre: -0.06868269294500351
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + animado: 0.1967325359582901
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + complacente: 0.0899641215801239
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + contentamento: -0.20707307755947113
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + contente: -0.05810772627592087
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + presuncoso: 0.232308492064476
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + radiante: -0.08249132335186005
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + satisfeito: -0.039746105670928955
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + adoravel: -3.985486982855946E-4
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + afeicoado: 0.008904872462153435
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + afetuoso: -0.126918762922287
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + amado: 0.03496235981583595
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + amavel: 0.15102651715278625
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + amoroso: -0.030799074098467827
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + apaixonado: 0.11209073662757874
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + atraido: -0.0886387899518013
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + caloroso: 0.013380086049437523
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + carinhoso: -0.022257359698414803
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + cativado: 0.043664637953042984
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + cuidadoso: -0.02382090874016285
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + dedicado: 0.10723705589771271
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + delicado: 0.1536055952310562
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + devotadissimo: -0.02616468258202076
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + devotado: -0.19674493372440338
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + enamorado: 0.06744082272052765
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + encantado: 0.0014648177893832326
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + idolatrico: -0.22937160730361938
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + paternal: 0.12223070114850998
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + romantico: 0.09219370037317276
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + terno: -0.10137396305799484
+----------------------------------------- 
+Palavra + sentimento positivo 
+era + zeloso: -0.10228043049573898
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+eu + decepcionado: 0.24304889142513275
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + derrotado: 0.018844539299607277
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desapontado: 0.06714312732219696
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + frustrado: 0.1422785222530365
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + abalado: -0.019292911514639854
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + abatido: 0.10274156183004379
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + aflito: -0.10562437027692795
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + agoniado: 0.13342584669589996
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + agonizante: -0.015326691791415215
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + angustiado: 0.041162606328725815
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + angustiante: 0.24225005507469177
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + contrariado: -0.07542313635349274
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + estressado: -0.16595663130283356
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + inquieto: -0.04047631472349167
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + perturbado: 0.019376186653971672
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + preocupado: 0.5036168098449707
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + triste: -0.11741441488265991
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + acanhado: -0.14293381571769714
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + constrangido: -0.01390807144343853
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + culpado: -0.08389288187026978
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desonrado: 0.09318125247955322
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + encabulado: 0.04457426071166992
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + envergonhado: 0.003207564353942871
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + humilhado: 0.2577211260795593
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + azarado: 0.11222605407238007
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + coitado: -0.08782333135604858
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + deploravel: -0.029123855754733086
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desafortunado: -0.007159181870520115
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desconsolado: 0.06638913601636887
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desgracado: -0.12024234235286713
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + desprezivel: -0.04387948289513588
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + infeliz: -0.1982099562883377
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + lamentavel: 0.46735402941703796
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + lastimoso: 0.06864910572767258
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + miseravel: 0.06760534644126892
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + patetico: 0.013084056787192822
+----------------------------------------- 
+Palavra + sentimento negativo 
+eu + pobre: -0.14954708516597748
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + animado: 0.16205181181430817
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + complacente: 0.21633154153823853
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + contentamento: -0.19185830652713776
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + contente: -0.01597757264971733
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + presuncoso: 0.049028582870960236
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + radiante: -0.15053574740886688
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + satisfeito: -0.1772899627685547
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + adoravel: 0.07834571599960327
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + afeicoado: 0.02625824324786663
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + afetuoso: -0.05999556556344032
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amado: 0.014414239674806595
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amavel: -0.037379730492830276
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + amoroso: 0.12059003859758377
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + apaixonado: 0.2183224856853485
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + atraido: 0.08474835753440857
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + caloroso: 0.14592589437961578
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + carinhoso: 0.08258085697889328
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + cativado: 0.16022685170173645
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + cuidadoso: 0.05926690995693207
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + dedicado: 0.08123411238193512
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + delicado: 0.07157675921916962
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + devotadissimo: 0.12068459391593933
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + devotado: -0.14950883388519287
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + enamorado: 0.032331984490156174
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + encantado: -0.05866881459951401
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + idolatrico: -0.13180537521839142
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + paternal: 0.060741931200027466
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + romantico: 0.08415921777486801
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + terno: -0.22083677351474762
+----------------------------------------- 
+Palavra + sentimento positivo 
+eu + zeloso: 0.05447809398174286
+----------------------------------------- 
+
+ 
+Palavra + sentimento negativo 
+racismo + decepcionado: 0.14259669184684753
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + derrotado: -0.09184639900922775
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desapontado: -0.003189520910382271
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + frustrado: -0.038808297365903854
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + abalado: 0.0934726819396019
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + abatido: 0.08384095132350922
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + aflito: 0.05829519033432007
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + agoniado: 0.07767467200756073
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + agonizante: 0.13469500839710236
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + angustiado: 0.08102765679359436
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + angustiante: 0.0781419649720192
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + contrariado: -0.10300320386886597
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + estressado: -0.026369608938694
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + inquieto: -0.09988782554864883
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + perturbado: 0.07574483007192612
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + preocupado: 0.08120626211166382
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + triste: 0.015795867890119553
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + acanhado: -0.1578986793756485
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + constrangido: 0.017362473532557487
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + culpado: -0.09263882786035538
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desonrado: 0.08730509132146835
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + encabulado: 0.21038936078548431
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + envergonhado: 0.03212863206863403
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + humilhado: 0.024108100682497025
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + azarado: -0.10173621028661728
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + coitado: -0.06152797117829323
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + deploravel: 0.0404168963432312
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desafortunado: -0.2311723530292511
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desconsolado: 0.04462363198399544
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desgracado: -0.15037550032138824
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + desprezivel: -0.05332344397902489
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + infeliz: 0.08843758702278137
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + lamentavel: 0.14710436761379242
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + lastimoso: 0.06418728828430176
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + miseravel: 0.11556455492973328
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + patetico: -0.2656829059123993
+----------------------------------------- 
+Palavra + sentimento negativo 
+racismo + pobre: 0.06430192291736603
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + animado: -0.015883203595876694
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + complacente: -0.041068099439144135
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + contentamento: -0.07085058838129044
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + contente: 0.11545620113611221
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + presuncoso: 2.7252768632024527E-4
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + radiante: 0.16715948283672333
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + satisfeito: -0.15280288457870483
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + adoravel: -0.08355864882469177
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + afeicoado: 0.05844809114933014
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + afetuoso: -0.02716935984790325
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + amado: -0.19200867414474487
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + amavel: -0.06218283623456955
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + amoroso: 0.24052497744560242
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + apaixonado: -0.008165831677615643
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + atraido: -0.020533615723252296
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + caloroso: 0.14395110309123993
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + carinhoso: -0.2228190302848816
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + cativado: -0.0029594707302749157
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + cuidadoso: -0.049909524619579315
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + dedicado: 0.029255520552396774
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + delicado: 0.035206954926252365
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + devotadissimo: 0.15466341376304626
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + devotado: -0.027349580079317093
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + enamorado: 0.06849922239780426
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + encantado: -0.05776919424533844
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + idolatrico: -0.15435440838336945
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + paternal: -0.04861600697040558
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + romantico: 0.010265553370118141
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + terno: 0.16234970092773438
+----------------------------------------- 
+Palavra + sentimento positivo 
+racismo + zeloso: -0.05332603305578232
+----------------------------------------- 
+
+ 
+

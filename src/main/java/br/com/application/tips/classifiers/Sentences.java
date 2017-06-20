@@ -4,8 +4,9 @@ public class Sentences {
 	
 	@Override
 	public String toString() {
-		return "Sentences [sentenca=" + sentenca + ", dynamic=" + dynamic + ", knn=" + knn + ", naivebayes="
-				+ naivebayes + ", somatorio=" + somatorio + ", combinaDocWord=" + combinaDocWord + "]";
+		return "'" +sentenca + "'," +dynamic + "," + +knn + "," + +naivebayes + "," + +somatorio + "," + combinaDocWord +",?";
+		/*return "Sentences [sentenca=" + sentenca + ", dynamic=" + dynamic + ", knn=" + knn + ", naivebayes="
+				+ naivebayes + ", somatorio=" + somatorio + ", combinaDocWord=" + combinaDocWord + "]"; */
 	}
 	String sentenca;
 	double dynamic;

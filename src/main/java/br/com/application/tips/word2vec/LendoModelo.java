@@ -104,8 +104,8 @@ public class LendoModelo {
 								somatorio[j] = cosSim + somatorio[j];
 								similaridade += cosSim;
 							}
-							sentences.setSomatorio(similaridade);
-							resultados.add(sentences);
+							
+							
 						}
 
 						texto.append("\n \n");
@@ -114,9 +114,11 @@ public class LendoModelo {
 						salvaArquivo(texto.toString(), sentencas.get(j));
 					}
 					
+										
 				}
 				
-				
+				sentences.setCombinaDocWord(similaridade);
+				resultados.add(sentences);
 			}
 					
 			

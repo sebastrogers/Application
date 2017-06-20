@@ -17,9 +17,9 @@ public class Somatorio {
 		
 		for (String word : stVec) {            
 			if (sp.contains(word)) {
-				indice++;
-			} else if (p.contains(word)) {
 				indice--;
+			} else if (p.contains(word)) {
+				indice++;
 			}            
 		}
 

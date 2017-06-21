@@ -14,8 +14,6 @@ import br.com.application.tips.word2vec.*;
 public class Application {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-
 
 		Classify c = new Classify();
 		ArrayList<Sentences> sentencas = new ArrayList<>();
@@ -38,11 +36,6 @@ public class Application {
 
 			sentencas.add(aux);
 		}
-
-
-
-
-
 
 		LendoModelo object = new LendoModelo();
 
@@ -68,18 +61,17 @@ public class Application {
 		}
 
 		salvaArquivo(sentencas, "arquivo");
-		
+
 	}
 
 	static void salvaArquivo(ArrayList<Sentences>list, String s) throws IOException {
 		//FileWriter arqW = new FileWriter("src/main/resources/resultado/" + s + ".txt");
 		FileWriter arqW = new FileWriter("./src/main/resources/resultado/" + s + ".txt");
 		PrintWriter gravarArq = new PrintWriter(arqW);
-		
+
 		for (Sentences sentences : list) {
 			gravarArq.println(sentences);
 		}
-		
 
 		arqW.close();
 		gravarArq.close();

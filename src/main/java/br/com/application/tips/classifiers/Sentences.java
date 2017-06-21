@@ -4,7 +4,45 @@ public class Sentences {
 	
 	@Override
 	public String toString() {
-		return "'" +sentenca + "'," +dynamic + "," + +knn + "," + +naivebayes + "," + +somatorio + "," + combinaDocWord +",?";
+		StringBuilder s = new StringBuilder();
+		s.append("'" +sentenca + "',");
+		if (dynamic == 1) {
+			s.append(true);
+		} else{
+			s.append(false);
+		}
+		s.append(",");
+		
+		if (knn == 1) {
+			s.append(true);
+		} else{
+			s.append(false);
+		}
+		s.append(",");
+		
+		if (naivebayes == 1) {
+			s.append(true);
+		} else{
+			s.append(false);
+		}
+		s.append(",");
+		
+		if (somatorio == 1) {
+			s.append(true);
+		} else{
+			s.append(false);
+		}
+		s.append(",");
+		
+		if (combinaDocWord > 1) {
+			s.append(true);
+		} else{
+			s.append(false);
+		}
+		//s.append(",?");
+		
+		return s.toString();
+		//return  +dynamic + "," + +knn + "," + +naivebayes + "," + +somatorio + "," + combinaDocWord +",?";
 		/*return "Sentences [sentenca=" + sentenca + ", dynamic=" + dynamic + ", knn=" + knn + ", naivebayes="
 				+ naivebayes + ", somatorio=" + somatorio + ", combinaDocWord=" + combinaDocWord + "]"; */
 	}
